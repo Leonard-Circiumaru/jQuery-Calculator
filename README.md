@@ -1,1 +1,2 @@
-# jQuery-Calculator: https://leonard-circiumaru.github.io/jQuery-Calculator/
+# jQuery-Calculator
+My second jQuery project: https://leonard-circiumaru.github.io/jQuery-Calculator/
